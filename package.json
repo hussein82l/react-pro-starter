@@ -1,0 +1,40 @@
+{
+  "name": "react-pro-starter",
+  "version": "1.0.3",
+  "description": "A CLI for scaffolding a modern React project with your favorite libraries.",
+  "main": "index.js",
+  "bin": {
+    "react-pro-starter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "starter",
+    "scaffolding",
+    "boilerplate",
+    "vite",
+    "tailwind",
+    "react-router",
+    "zustand",
+    "redux-toolkit",
+    "axios",
+    "react-query",
+    "react-hook-form",
+    "mui",
+    "shadcn",
+    "project-setup",
+    "quick-start",
+    "frontend"
+  ],
+  "author": "daniyalahmed21@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "execa": "^8.0.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.19"
+  }
+}
